@@ -8,6 +8,12 @@ class stu{
 	std::string stuname;
 };
 
+class tea{
+	std::string teaid;
+	int score;
+	std::string teaname;
+};
+
 int main()
 {
 	std::cout<<"Hello World"<<endl;
